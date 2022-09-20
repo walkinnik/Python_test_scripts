@@ -1,3 +1,3 @@
-Name: Niksta
-Age: 20
-City: Gangsta
+Name: Nik
+Age: Dan
+City: 20

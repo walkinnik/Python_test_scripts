@@ -9,6 +9,7 @@ def txt_writer(*args):
     your_city = args[0][2]
     test_file = open(r"./myfile.txt", "w+")
     test_file.write(f'Name: {your_name}\nAge: {your_age}\nCity: {your_city}')
+    test_file.close()
 
 
 def input_reader():
